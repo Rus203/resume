@@ -121,8 +121,8 @@ a:hover {
 }
 
 .plain-text {
-  padding-right: 5%;
-  padding-left: 2%;
+  padding-right: 3%;
+  padding-left: 3%;
 }
 
 .indent {
@@ -131,7 +131,6 @@ a:hover {
 
 .left-side-title {
   display: block;
-
   width: 6em;
   background-color: #35b1bf;
   color: white;

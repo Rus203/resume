@@ -1,0 +1,46 @@
+@media screen and (min-width: 1050px) {
+  body {
+    max-width: 1150px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .main {
+    display: block;
+  }
+
+  .header {
+    display: block;
+  }
+
+  .img-logo {
+    width: 75px;
+    height: 65px;
+    border-radius: 35%;
+  }
+
+  .main {
+    display: block;
+    margin: auto 0.3em;
+  }
+
+  .left-side {
+    width: 100%;
+    border: none !important;
+  }
+
+  .right-side {
+    width: 100%;
+    border: none !important;
+    text-align: justify;
+  }
+
+  .plain-text {
+    text-align: justify;
+    padding-right: 3%;
+    padding-left: 3%;
+  }
+}
+
+@media screen and (max-width: 575px) {
+}
