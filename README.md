@@ -1,1 +1,3 @@
-[The is a link to see the resume](https://rus203.github.io/resume/)
+# My resume
+
+### [View the demo](https://rus203.github.io/resume/)
